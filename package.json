@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ggchan0/chatcat#readme",
   "dependencies": {
-    "express": "^4.13.2"
+    "express": "^4.13.2",
+    "hogan-express": "^0.5.2"
   }
 }
