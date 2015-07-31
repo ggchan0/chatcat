@@ -1,0 +1,22 @@
+{
+  "name": "chatcat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggchan0/chatcat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggchan0/chatcat/issues"
+  },
+  "homepage": "https://github.com/ggchan0/chatcat#readme",
+  "dependencies": {
+    "express": "^4.13.2"
+  }
+}
